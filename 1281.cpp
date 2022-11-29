@@ -9,4 +9,4 @@ int subtractProductAndSum(int n) {
         }
         int ans=product-sum;
         return ans;
-    }
+   }
